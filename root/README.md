@@ -30,12 +30,15 @@ npm install https://github.com/92bondstreet/node-car-api.git
 
 ## How to use 
 
+### Server side
 1. Launch node.js
 1. Go to the root directory (For example C:\Users\Username\Documents\GitHub\caradisiac\root) using the cd command
 1. Execute the server, like this : 
 ```console
 node server.js
 ```
+
+### Client side
 1. Open Postman
 1. To populate the database, just do on Postman : 
 (GET) localhost:9292/populate *
