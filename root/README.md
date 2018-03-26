@@ -35,7 +35,7 @@ npm install https://github.com/92bondstreet/node-car-api.git
 1. Execute the server, like this : 
 ```console
 node server.js
-``
+```
 1. Open Postman
 1. To populate the database, just do on Postman : 
 (GET) localhost:9292/populate *
