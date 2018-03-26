@@ -43,4 +43,4 @@ node server.js
 (GET) localhost:9292/suv
 
 
-* : keep watching the server console, to see the advancement of the request.
+(*) : keep watching the server console, to see the advancement of the request.
